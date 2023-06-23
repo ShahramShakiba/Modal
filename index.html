@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="a modal is a graphical user interface element that appears on top of the main content and requires the user to interact with it before continuing. Modals are often used for displaying alerts, notifications, for"
+    />
+    <meta
+      name="keywords"
+      content="HTML, CSS, JavaScript, Frontend, Developer, Website"
+    />
+    <meta name="author" content="Shahram Shakiba" />
+    <link rel="stylesheet" href="./main.css" />
+    <title>MODAL</title>
+  </head>
+  <body>
+    <section class="modal-section">
+      <!-----$ Show-modal Button $----->
+      <button class="show-modal" data-target="">
+        <a href="#show-modal">Show Modal</a>
+      </button>
+      <div class='description'>
+        <p>This is a mini-project of building a "Modal" only to practice <em>HTML</em>, <em>CSS</em> and <em>JavaScript</em>. </p>
+      </div>
+
+      <!-----$ BackDrop $----->
+      <div class="backdrop hidden"></div>
+
+      <!---------$ Modal $--------->
+      <div class="modal hidden" id="modal" data-modal="">
+        <!--! header !-->
+        <div class="modal__header">
+          <h1>Modal</h1>
+          <button class="close-modal">&times;</button>
+        </div>
+
+        <!--! body !-->
+        <div class="modal__body">
+          <h3>Description</h3>
+          <p>
+            A modal is a graphical user interface element that appears on top of
+            the main content and requires the user to interact with it before
+            continuing.
+          </p>
+        </div>
+        <div class="modal__body">
+          <h4>Benefit</h3>
+          <p>
+            Modals are often used for "displaying alerts", "notifications", "forms",
+            or other types of information that require user input or attention.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
