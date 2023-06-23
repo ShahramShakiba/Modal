@@ -2,7 +2,7 @@
 **_Modal_** :<br/>
 > This is a mini-project of building a Modal to practice `HTML`, `CSS` and `JavaScript`.  <br/>
 
-- A _Modal_ is a graphical user interface element that appears on top of the main content and requires the user to interact with it before continuing. </br/>
+- A _Modal_ is a graphical user interface element that appears on top of the main content and requires the user to interact with it before continuing. <br/>
 
  - **`A few benefits of a Modal :`**<br/>
  **_1. User Experience_ :**<br/>
@@ -17,7 +17,8 @@ Modals can help reduce clutter on a page by hiding information until it is neede
 https://github.com/ShahramShakiba/Modal/assets/110089830/5790aa25-c236-4e84-b7d1-cb2ad8a7c58a
 
  ## Try it live :
-
+ https://shahramshakiba.github.io/Modal/
+ 
  ## Stay in touch :
  • ` Author ` - <a href="https://t.me/DevZEEMO">Shahram Shakiba</a> <br/>
  • ` Linkedin ` - https://linkedin.com/in/shahram-shakiba-a19223248 <br/>
