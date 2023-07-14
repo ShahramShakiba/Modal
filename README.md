@@ -20,7 +20,8 @@ https://github.com/ShahramShakiba/Modal/assets/110089830/5790aa25-c236-4e84-b7d1
  https://shahramshakiba.github.io/Modal/
  
  ## Stay in touch :
- • ` Author ` - <a href="https://t.me/DevZEEMO">Shahram Shakiba</a> <br/>
- • ` Linkedin ` - https://linkedin.com/in/shahram-shakiba-a19223248 <br/>
- • ` Instagram ` - https://instagram.com/dev_zeemo?igshid=MzNlNGNkZWQ4Mg== <br/>
+ • ` Author ` - <a href="https://t.me/ShahramDev">Shahram Shakiba</a> <br/>
+ • ` Linkedin ` - https://www.linkedin.com/in/shahram-shakiba-a19223248/ <br/>
+ • ` Instagram ` - https://instagram.com/shahram.shakibaa?igshid=MzNlNGNkZWQ4Mg== <br/>
  • ` Twitter ` - https://twitter.com/DevZEEMO?t=NrBFV-j1adqZ9lEaHlNp-g&s=09
+
