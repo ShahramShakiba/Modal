@@ -19,10 +19,21 @@ https://github.com/ShahramShakiba/Modal/assets/110089830/5790aa25-c236-4e84-b7d1
  ## Try it live :
  https://shahramshakiba.github.io/Modal/
  
- ## Stay in touch :
- • ` Author ` - <a href="https://t.me/ShahramDev">Shahram Shakiba</a> <br/>
- • ` Linkedin ` - https://www.linkedin.com/in/shahram-shakiba-a19223248/ <br/>
- • ` Instagram ` - https://instagram.com/shahram.shakibaa?igshid=MzNlNGNkZWQ4Mg== <br/>
- • ` Twitter ` - https://twitter.com/DevZEEMO?t=NrBFV-j1adqZ9lEaHlNp-g&s=09
+ ## Find me around the Web :
+  <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/ShahramDev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://wa.me/message/LM2IMM3ABZ7ZM1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://instagram.com/shahram.shakibaa?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/DevZEEMO" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
 
 
