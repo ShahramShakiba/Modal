@@ -18,8 +18,10 @@ https://github.com/ShahramShakiba/Modal/assets/110089830/5790aa25-c236-4e84-b7d1
 
  ## Try it live :
  https://shahramshakiba.github.io/Modal/
+
+<br/>
  
- ## Find me around the Web :
+ ### Find me around the Web :
   <a href="https://www.linkedin.com/in/shahramshakiba/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
